@@ -25,4 +25,14 @@ class Player7(Player):
         #
         # PLACEMENT_GUIDE.md covers placing a shape in the room; SIMULATOR_GUIDE.md
         # covers everything else; players/example_player.py is a worked example.
+        
+        # find valid wall pairing configs 
+        # wall_configs = 
+
+        
+        
+        
         return None
+
+    def find_wall_configs(self) -> list[int]:
+            
